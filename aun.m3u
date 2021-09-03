@@ -1,0 +1,1003 @@
+#EXTM3U
+
+#EXTINF:0,CH3 HD
+#EXTGRP:Digital TV
+
+https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+
+#EXTINF:0,CH5 HD
+#EXTGRP:Digital TV 
+
+https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+
+#EXTINF:0,CH7 HD
+#EXTGRP:Digital TV 
+
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_1/chunklist.m3u8
+
+#EXTINF:0,MCOT HD
+#EXTGRP:Digital TV 
+
+https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+
+#EXTINF:0,NBT HD
+#EXTGRP:Digital TV 
+
+http://916309128f3e.sn.mynetname.net:1935/aslive/nbthd/chunklist_w1864354223.m3u8
+
+#EXTINF:0,NBT HD
+#EXTGRP:Digital TV 
+
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1249643471.m3u8
+
+#EXTINF:0,Thai PBS HD
+#EXTGRP:Digital TV 
+
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+
+#EXTINF:0,TNN 16
+#EXTGRP:Digital TV 
+
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8
+
+#EXTINF:0,News 1
+#EXTGRP:Digital TV 
+
+http://news1.live14.com/stream/news1_hi.m3u8
+
+#EXTINF:0,Nation TV HD
+#EXTGRP:Digital TV 
+
+https://mediasv.online/tvchannel_x3/nation_720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDIxIDg6NTE6MDYgQU0maGFzaF92YWx1ZT1hL2hGSm5aM1Zla2JKOElUSHpvbHV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI0JmlkPWNoXzQ3NDU0
+
+#EXTINF:0,Amarin TV HD
+#EXTGRP:Digital TV 
+
+https://mediasv.online/tvchannel_x1/amarintv/video.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMzoxNToxMiBBTSZoYXNoX3ZhbHVlPUYrZmJPejdMVVlLMDZPZjFlS2ZKRkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjEmaWQ9Y2hfMjA3Njc=
+
+#EXTINF:0,Voice TV HD
+#EXTGRP:Digital TV 
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_720p/playlist.m3u8
+
+#EXTINF:0,PPTV HD
+#EXTGRP:Digital TV 
+https://embed-dev.blackboxsys.net/player.php?channel=hd-pptv&api_key=hmcb4rf66f
+
+#EXTINF:0,Thairath TV HD
+#EXTGRP:Digital TV 
+https://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:0,Top News
+#EXTGRP:Digital TV 
+https://live.topnews.co.th/hls/topnews.m3u8
+
+#EXTINF:0,NEW 18 HD
+#EXTGRP:Digital TV 
+http://live2.dootvde.com/live/50011_news_tv.stream.smil/playist.m3u8
+
+#EXTINF:0,Workpoint TV HD
+#EXTGRP:Digital TV 
+http://916309128f3e.sn.mynetname.net:1935/aslive/workpoint/chunklist_w1265339050.m3u8
+
+#EXTINF:0,Workpoint TV HD
+#EXTGRP:Digital TV 
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/chunks.m3u8
+
+#EXTINF:0,True4U
+#EXTGRP:Digital TV 
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
+
+#EXTINF:0,CH8
+#EXTGRP:Digital TV 
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/360p/index.m3u8
+
+#EXTINF:0,GMM25 HD
+#EXTGRP:Digital TV 
+https://mediasv.online/tvchannel_x3/gmm25_720p/chunks.m3u8?nimblesessionid=49878173&wmsAuthSign=c2VydmVyX3RpbWU9Ny84LzIwMjEgMzoxNzoyMCBBTSZoYXNoX3ZhbHVlPU5RaGQrYTNPcThSWVlJd3hsVGJpRHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNDM0MTg=
+
+#EXTINF:0,MONO29
+#EXTGRP:Digital TV 
+https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
+#EXTINF:0,MONO29 HD Soundtrack
+#EXTGRP:Digital TV 
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080EN.stream/playlist.m3u8
+
+#EXTINF:0,ONE HD
+#EXTGRP:Digital TV 
+https://one31-rlbwkq.cdn.byteark.com/live/playlist_480p/index.m3u8
+
+#EXTINF:0,Natgeo Graphic
+#EXTGRP:สารคด 
+https://mediasv.online/tvchannel_x1/natgeo/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIxIDk6MTk6MDcgQU0maGFzaF92YWx1ZT1BLy9yeTVkNWxTSFdOcStoUG9Ed2pnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzc3Nzk1
+#EXTINF:0,Natgeo Graphic(Saudi)
+#EXTGRP:สารคด 
+http://admdn2.cdn.mangomolo.com:80/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:0,Natgeo Wild
+#EXTGRP:สารคด 
+https://mediasv.online/live7f/hd-natgeowild/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIxIDk6MzI6MzMgQU0maGFzaF92YWx1ZT1LZWVtWnBZUGdjc25FaWFGcUR1UGRBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzMxNTc1
+
+#EXTINF:0,History HD
+#EXTGRP:สารคด 
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0,History HD
+#EXTGRP:สารคด 
+https://smart-tv.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+
+#EXTINF:0,History 2 HD
+#EXTGRP:สารคด 
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:0,Discovery Asia
+#EXTGRP:สารคด 
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0,Discovery Asia
+#EXTGRP:สารคด 
+https://mediasv.online/tvchannel_x1/discovery-asia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjEgNDo0OTo1NyBBTSZoYXNoX3ZhbHVlPXhYbHFVNHZ4ZVdxS0JTTlllOGQwN2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjcmaWQ9Y2hfODU5NTk=
+#EXTINF:0,Discovery Asia
+#EXTGRP:สารคด 
+https://smart-tv.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+
+#EXTINF:0,Animal Planet HD
+#EXTGRP:สารคด 
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:สารคด 
+https://mediasv.online/tvchannel_x1/hd-animalplanet/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIxIDk6MTY6NDUgQU0maGFzaF92YWx1ZT1ZNDJvV05TcUM4ZjVMcytOVFlsR293PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzU1NzM5
+
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:สารคด 
+https://mediasv.online/tvchannel_x1/hd-discovery/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIxIDk6MTU6MjkgQU0maGFzaF92YWx1ZT1YSjNSbEc1eEtPUkxNWU1PS3Q1UTBRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI1JmlkPWNoXzc1MjAz
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:สารคด 
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,Discovery Asia HD
+#EXTGRP:สารคด 
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0,Discovery Asia HD
+#EXTGRP:สารคด 
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,BBC Earth
+#EXTGRP:สารคด  ,,
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,BBC lifestyle
+#EXTGRP:สารคด  ,
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:0,BBC Lifestyle
+#EXTGRP:Entertainment 
+http://160.119.77.116:8081/iptv/sd-bbclifestyle.stream/playlist.m3u8
+
+#EXTINF:0,LOVE NATURE
+#EXTGRP:สารคด 
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0,PSI Saradee HD
+#EXTGRP:สารคด 
+https://freelive.inwstream.com:1936/freelive-edge/saradee99/playlist.m3u8
+
+#EXTINF:0,สำรวจโลก
+#EXTGRP:สารคด 
+http://27.254.130.62/feed/LC8/index.m3u8
+
+#EXTINF:0,TLC
+#EXTGRP:สารคด 
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,Outdoor Channel
+#EXTGRP:สารคด 
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTINF:0,Pet Collective
+#EXTGRP:สารคด 
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0,Pet Collective
+#EXTGRP:สารคด 
+https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8
+
+#EXTINF:0,DMAX
+#EXTGRP:สารคด 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
+
+#EXTINF:0,Hunt
+#EXTGRP:สารคด 
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:0,The Outdoor
+#EXTGRP:สารคด 
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0,Hunt Channel
+#EXTGRP:สารคด 
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:,LoveNature
+#EXTGRP:สารคด 
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+
+#EXTINF:0,MOTOR TREND
+#EXTGRP:สารคด 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+
+#EXTINF:0,Fashion & Lifestyle HD
+#EXTGRP:สารคด 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:0,FASHION TV
+#EXTGRP:สารคด 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:0,FASHION TV
+#EXTGRP:สารคด 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:0,Jasmin TV
+#EXTGRP:สารคด 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:0,Sky Sport Golf
+#EXTGRP:กฬา 
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/golf/chunks.m3u8?nimblesessionid=2801818&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDM6NDA6NDcgQU0maGFzaF92YWx1ZT1PR0pJak4yWVZQMERZbGFkclI0alFnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Golf Test
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0,One Golf
+#EXTGRP:กฬา 
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0,Golf channel
+#EXTGRP:กฬา 
+https://sport.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0,Premier HD1
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,Premier HD1
+#EXTGRP:กฬา 
+https://live.andaman888th.com/live/tpf1/sport/tpf1-480/chunks.m3u8?nimblesessionid=21753196
+#EXTINF:0,Premier HD2
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0,Premier HD3
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0,Premier HD4
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0,Premier HD5
+#EXTGRP:กฬา 
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
+#EXTINF:0,True Sport HD1
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD2
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD 2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD3
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,True Sports HD3
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,True Sport HD4
+#EXTGRP:กฬา 
+https://sport.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,True Sports HD4
+#EXTGRP:กฬา 
+https://smart-tv.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,True Sports 2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:0,True Sports 5
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:0,True Sports 6
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:0,True Sports 7
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:0,True Tennis
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0,beIN Sports HD1
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:0,beIN Sports HD2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:0,beIN Xtra
+#EXTGRP:กฬา 
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+
+#EXTINF:0,Fight Sport 2
+#EXTGRP:กฬา 
+http://45.126.83.51/session/43f73ad0-6783-11eb-9e81-b40195c230e2/uq2663/h/h05/01.m3u8
+#EXTINF:0,Fight Sport 3
+#EXTGRP:กฬา 
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:0,Fight Sport 4
+#EXTGRP:กฬา 
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/playlist.m3u8
+#EXTINF:0,Box Fite
+#EXTGRP:กฬา 
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/playlist.m3u8
+#EXTINF:0,Fox Sports 1
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0,Fox Sports 3
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0,Sky Sport Net HD
+#EXTGRP:กฬา 
+https://live.andaman888th.com/live/skynetsporthd/sport/skynethd/chunks.m3u8?nimblesessionid=20628686&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDI6NTc6MDAgQU0maGFzaF92YWx1ZT1ZeHJiUk9pb1NsTklyODM0a0tvMUlBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Astro SuperSport
+#EXTGRP:กฬา 
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0,Astro Super Sport 2
+#EXTGRP:กฬา 
+http://51.79.208.145:61980/myplay/mlsp_602/index.m3u8
+#EXTINF:0,Astro SuperSport 2
+#EXTGRP:กฬา 
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0,Astro Super Sport 3
+#EXTGRP:กฬา 
+http://51.79.208.145:61980/myplay/mlsp_603/index.m3u8
+#EXTINF:0,Astro SuperSport 3
+#EXTGRP:กฬา 
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+#EXTINF:0,Astro Super Sport 4
+#EXTGRP:กฬา 
+http://51.79.208.145:61980/myplay/mlsp_604/index.m3u8
+#EXTINF:0,Astro SuperSport 4
+#EXTGRP:กฬา 
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Sky Net Sport 1
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0,Sky Net Sport 2
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0,Sky Net Sport 3
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0,Sky Net Sport 4
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0,Sky Net Sport 5
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0,3BB sport
+#EXTGRP:กฬา 
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/sports/3bbsports1/chunks.m3u8?nimblesessionid=5171879&amp;
+#EXTINF:0,ESPN
+#EXTGRP:กฬา 
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:0,ESPN 2
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports1nl/chunks.m3u8
+#EXTINF:0,ESPN 3
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports2nl/chunks.m3u8
+#EXTINF:0,ESPN 5
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m4/foxsports5nl/chunks.m3u8
+#EXTINF:0,SKY SPORTS PREMIER
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS FOOTBALL
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-football.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-mainevent.stream/playlist.m3u8
+#EXTINF:0,Sky Net Sport 6
+#EXTGRP:กฬา 
+https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0,SKY SPORTS NFL
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-action.stream/playlist.m3u8
+#EXTINF:0,Sony ESPN HD
+#EXTGRP:กฬา 
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:0,SKY SPORTS ARENA
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-arena.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS GOLF
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-golf.stream/playlist.m3u8
+#EXTINF:0,SKY SPORTS F1
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:0,Motor Vision
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/hd-motorvision.stream/playlist.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:กฬา 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,TV Matic
+#EXTGRP:กฬา 
+http://cdn.tvmatic.net/fight.m3u8
+#EXTINF:0,NBA
+#EXTGRP:กฬา 
+https://sport.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0,NFL
+#EXTGRP:กฬา 
+https://mediasv.online/live/nflnetwork/playlist.m3u8
+#EXTINF:0,NBA HD
+#EXTGRP:กฬา 
+https://doofootball.livestream-cdn.com/iptv/hd-nba.stream/playlist.m3u8
+#EXTINF:0,Eurosport 1
+#EXTGRP:กฬา 
+http://160.119.77.116:8081/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTINF:0,Eurosport 2
+#EXTGRP:กฬา 
+http://160.119.77.116:8081/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTINF:0,BT Sports 1
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsport1_480p/playlist.m3u8
+#EXTINF:0,BT Sports 2
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsporthd2_480p/playlist.m3u8
+#EXTINF:0,BT Sports 3
+#EXTGRP:กฬา 
+https://r3-sn-5fo-c37ed5.googleuservideo.com/thai88hd_m1/beinsport3_480p/playlist.m3u8
+#EXTINF:0,LFC TV
+#EXTGRP:กฬา 
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
+#EXTINF:0,Man-U TV
+#EXTGRP:กฬา 
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
+#EXTINF:0,Chealsea TV
+#EXTGRP:กฬา 
+http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
+#EXTINF:0,[เสีย] RTM Sports
+#EXTGRP:กฬา 
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+#EXTINF:0,eGG Network
+#EXTGRP:กฬา 
+http://45.126.83.51/uq2663/h/h22/index.m3u8
+
+#EXTINF:0,Cable Movie 1
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+#EXTINF:0,Cable Movie 2
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+#EXTINF:0,Cable Series 1
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:0,Cable Series 2
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+#EXTINF:0,MOVIE ON-AIR",HIDEF-3
+#EXTGRP:Entertainment 
+https://bit.ly/3pj4fGz
+#EXTINF:0,MOVIE ON-AIR",HIDEF-4
+#EXTGRP:Entertainment 
+https://bit.ly/2ZeheP5
+#EXTINF:0,MOVIE ON-AIR",HIDEF-5
+#EXTGRP:Entertainment 
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:0,MOVIE ON-AIR",HIDEF-6
+#EXTGRP:Entertainment 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0,Fox Movie
+#EXTGRP:Entertainment 
+http://ip2121.com:8081/live2/foxprem/chunks.m3u8
+#EXTINF:0,Fox Family
+#EXTGRP:Entertainment 
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0,Fox Action Movie
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/ci/chunklist_w83033785.m3u8
+#EXTINF:0,Fox Action Movie
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/foxactionmovie/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMjozODowMiBBTSZoYXNoX3ZhbHVlPVhxRGxWeThBY2tudDZCZ09XelhTY0E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjcmaWQ9Y2hfMzk2MDg=
+#EXTINF:0,Fox Thai
+#EXTGRP:Entertainment 
+https://embed-dev.blackboxsys.net/player.php?channel=sd-fox&api_key=hmcb4rf66f
+#EXTINF:0,Fox Life
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hd-foxlife/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMjo0MDoxNCBBTSZoYXNoX3ZhbHVlPXNiaTRLQUduWmQ5SXF6eWFOMCtabEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNjI4NjY=
+#EXTINF:0,Fox HD(EN)
+#EXTGRP:Entertainment 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hd-axn/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMjozOTo0NSBBTSZoYXNoX3ZhbHVlPXY5N3loUStsYTd2djNEeG5LSm8ybkE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTkmaWQ9Y2hfNTM2NTI=
+#EXTINF:0,Cinemax
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/fhd-cinemax/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMTE6MTU6MTUgQU0maGFzaF92YWx1ZT12Y3ZVcWhmOTFaZnlSMnQ2cUVmc0lnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI0JmlkPWNoXzE0NDU4
+#EXTINF:0,HBO Family
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hbo-family/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMTE6MTY6MjMgQU0maGFzaF92YWx1ZT1WTHNxTjU2R0VXS2taeHJzWloyeDlBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIzJmlkPWNoXzg0ODIw
+#EXTINF:0,HBO Family
+#EXTGRP:Entertainment 
+https://dl.dropboxusercontent.com/s/64835cjvpiy9gzc/FAMILY-SD.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Entertainment 
+https://dl.dropboxusercontent.com/s/cxgr1ongofirbrb/hbo_sd.m3u8
+#EXTINF:0,HBO Hit
+#EXTGRP:Entertainment 
+https://dl.dropboxusercontent.com/s/wq46ef68euof6gx/HITS-SD.m3u8
+#EXTINF:0,HBO Signatue
+#EXTGRP:Entertainment 
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:0,RED HBO
+#EXTGRP:Entertainment 
+https://dl.dropboxusercontent.com/s/4rqfc65yln88xvq/red.m3u8
+#EXTINF:0,True Series
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/trueseries/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xLzIwMjEgMTE6MjE6NTYgQU0maGFzaF92YWx1ZT1vVi9hWHVQWkVuZXZjc3FpOGNBM0lnPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIzJmlkPWNoXzQ3MzQy#EXTINF:0,
+#EXTINF:0,True Film HD
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/true-filmhd/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNjozNiBBTSZoYXNoX3ZhbHVlPURXL0h0bkRvNmxUR0w2MEFscDJhY1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjQmaWQ9Y2hfNDEyNzk=
+#EXTINF:0,True Film HD 2
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/true-filmhd2/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNjozOCBBTSZoYXNoX3ZhbHVlPVlxZmlSaFVuWGVlSklFREhicVpxN1E9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjUmaWQ9Y2hfNDEzNDY=
+#EXTINF:0,True Film Asia
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/truefilmasia/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgNDo1MzoyOSBBTSZoYXNoX3ZhbHVlPXhOalNSNzUxK3ZBdit2cE5Oc2N4TGc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjUmaWQ9Y2hfMzU0ODY=
+#EXTINF:0,True Asia Series
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hd-asianseries/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNjo0NSBBTSZoYXNoX3ZhbHVlPW9oOGZyMDhTOEMzbzYrNy8wZHRSNmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjcmaWQ9Y2hfNDMyOTY=
+#EXTINF:0,True Movie Hits
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/moviehits/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNzowMiBBTSZoYXNoX3ZhbHVlPW9WLzhGY0ZzSUUyQ1JabE1MYkN5QlE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfMzYwNzc=
+#EXTINF:0,Hits
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hits/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNjo1NiBBTSZoYXNoX3ZhbHVlPSsvWE1kc3JPQWVZc21CZzFzMnJZVmc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTcmaWQ9Y2hfNjgwNzg=
+#EXTINF:0,Blue Eantertianment
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x2/blueant/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTozNjo1MCBBTSZoYXNoX3ZhbHVlPW5BcGMwNWptdzMyYWI0OTJjZStjL2c9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjAmaWQ9Y2hfNTQ2NTE=
+#EXTINF:0,True ID Plus
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/trueseries/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTo0Mjo0NiBBTSZoYXNoX3ZhbHVlPTFVd1BuaEU3ekRaUjY1a1kvYW5TcWc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjMmaWQ9Y2hfNDk4NTc=
+#EXTINF:0,Paramount
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/paramount/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yLzIwMjEgOTo0NDo0NSBBTSZoYXNoX3ZhbHVlPURTbncyaTREYzNMV0NHYnUyMTZ5WHc9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MjImaWQ9Y2hfNDY4NTM=
+#EXTINF:0,Universal
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
+#EXTINF:0,KIX
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,KIX
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,And flixhd
+#EXTGRP:Entertainment 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,Movie 1
+#EXTGRP:Entertainment 
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+
+#EXTINF:0,Movie 2
+#EXTGRP:Entertainment 
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:0,Movie 3
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+
+#EXTINF:0,Paramount Soundtrack
+#EXTGRP:Entertainment 
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:0,Celestial
+#EXTGRP:Entertainment 
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:0,GEM
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/foxlife/chunklist.m3u8
+#EXTINF:0,CH 8
+#EXTGRP:Entertainment 
+https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w650904636.m3u8
+#EXTINF:0,Samurai
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC2/playlist.m3u8
+#EXTINF:0,Sun
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC1/playlist.m3u8
+#EXTINF:0,Zee Nung
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
+#EXTINF:0,M Channel
+#EXTGRP:Entertainment 
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:0,Kix (China)
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HD Movie1
+#EXTGRP:Entertainment 
+http://196.53.248.18:8081/live/action001/chunks.m3u8
+#EXTINF:0,HD Movie 2
+#EXTGRP:Entertainment 
+http://196.53.248.18:8081/live/banner002/chunks.m3u8
+#EXTINF:0,HD Movie 3
+#EXTGRP:Entertainment 
+http://196.53.248.18:8081/live/banner0003/chunks.m3u8
+#EXTINF:0,HD Movie 4
+#EXTGRP:Entertainment 
+http://196.53.248.18:8081/live/invest02/playlist.m3u8
+#EXTINF:0,HD Movie 6
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist.m3u8
+#EXTINF:0,HD Movie 7
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist.m3u8
+#EXTINF:0,HD Movie 8
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/foxfamily/chunklist.m3u8
+#EXTINF:0,HBO Signature(Sub จีน)
+#EXTGRP:Entertainment 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+EXTINF:0,Cinemax
+#EXTGRP:Entertainment 
+https://www.dropbox.com/s/nndfo2od0ctfvfh/MAX-low.m3u8?dl=1
+#EXTINF:0,Cinemax (Eng)
+#EXTGRP:Entertainment 
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:0,Cinemax(Sub จีน)
+#EXTGRP:Entertainment 
+http://home-tv.web.id/OYESS/max.m3u8
+#EXTINF:0,Fox Family (Thai)
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/fox-family/playlist.m3u8
+#EXTINF:0,Fox Family (EN)
+#EXTGRP:Entertainment 
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Entertainment 
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Entertainment 
+https://smart-tv.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0,Thrill (Janpan)
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+#EXTINF:0,Crimes Investigation
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC43/playlist.m3u8
+#EXTINF:0,Paramount
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/paramount/playlist.m3u8
+#EXTINF:0,SUN MOVIE
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8
+#EXTINF:0,SAMURAI MOVIE
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8
+#EXTINF:0,SANOOK MOVIE
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC53/index.m3u8
+#EXTINF:0,Box Film
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:0,Box Film
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC52/playlist.m3u8
+#EXTINF:0,KiX
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Universal
+#EXTGRP:Entertainment 
+http://916309128f3e.sn.mynetname.net:1935/aslive/thrill/chunklist.m3u8
+#EXTINF:0,True Film HD2
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/true-filmhd2/playlist.m3u8
+#EXTINF:0,True Thai Film
+#EXTGRP:Entertainment 
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+#EXTINF:0,True Series
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/trueseries/playlist.m3u8
+#EXTINF:0,True Inside TH
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/sd-inside.stream/playlist.m3u8
+#EXTINF:0,M Channel
+#EXTGRP:Entertainment 
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:0,Celestial Movies HD
+#EXTGRP:Entertainment 
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:0,Celestial Classic Movies
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/sd-celestial.stream/playlist.m3u8
+#EXTINF:0,CTB
+#EXTGRP:Entertainment 
+http://vip.login.in.th:1935/CTB/CTB/chunklist_w498681518.m3u8
+#EXTINF:0,Channel 8
+#EXTGRP:Entertainment 
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:0,[เสีย] 3BB Asian Ex
+#EXTGRP:Entertainment 
+https://boxmovielive.com/live/3bb1.m3u8
+#EXTINF:0,TVB Thai HD
+#EXTGRP:Entertainment 
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+#EXTINF:0,TVB
+#EXTGRP:Entertainment 
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/chunklist_sltha.m3u8
+#EXTINF:0,THRILL HD
+#EXTGRP:Entertainment 
+http://27.254.130.62/feed/LC26/index.m3u8
+#EXTINF:0,&flix HD
+#EXTGRP:Entertainment 
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0,&prive HD
+#EXTGRP:Entertainment 
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0,LOTUS MACAU
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC41/index.m3u8
+#EXTINF:0,[เสีย] Hits Movies HD
+#EXTGRP:Entertainment 
+https://www.livedoomovie.com/02_HITSMOVIE_720p/chunklist.m3u8
+#EXTINF:0,KiX HD
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,CCM
+#EXTGRP:Entertainment 
+http://51.79.208.146:61980/myplay/c_58030/index.m3u8
+#EXTINF:0,ZEE หนัง
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC5/index.m3u8
+#EXTINF:0,CinemaWorld
+#EXTGRP:Entertainment 
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:0,Astro Citra HD
+#EXTGRP:Entertainment 
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:0,AXN HD
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:0,tvN
+#EXTGRP:Entertainment 
+https://laos-tech-live.b-cdn.net/hd-tvn_480/index.m3u8
+#EXTINF:0,Stingray iConcerts
+#EXTGRP:Music
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/iconcerts/chunks.m3u8?nimblesessionid=5182466&amp;
+#EXTINF:0,True Music
+#EXTGRP:Music
+https://smart-tv.livedoomovie.com/02_TRUEMUSIC_720p/chunklist.m3u8
+#EXTINF:0,Music
+#EXTGRP:Music
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:0,V Music
+#EXTGRP:Music
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:0,51 Music
+#EXTGRP:Music
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:0,Crime & Investigation HD
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC43/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Entertainment 
+https://mediasv.online/tvchannel_x1/hd-animalplanet/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDIxIDk6MTY6NDUgQU0maGFzaF92YWx1ZT1ZNDJvV05TcUM4ZjVMcytOVFlsR293PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI4JmlkPWNoXzU1NzM5
+#EXTINF:0,Food Network
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/uk-foodnetwork.stream/playlist.m3u8
+#EXTINF:0,KBS World
+#EXTGRP:Entertainment 
+http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+#EXTINF:0,Hunan TV HD
+#EXTGRP:Entertainment 
+http://36.37.252.114:888/Apple/OneTV-054/playlist.m3u8
+#EXTINF:0,Blue Ant ENT HD
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/hd-rtlcbs.stream/playlist.m3u8
+#EXTINF:0,Blue Ant Extreme HD
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,V HD
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,HGTV Italia
+#EXTGRP:Entertainment 
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
+#EXTINF:0,True X-Zyte
+#EXTGRP:Entertainment 
+https://doofootball.livestream-cdn.com/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTINF:0,MV Laos
+#EXTGRP:Entertainment 
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:0,LaoStar HD
+#EXTGRP:Entertainment 
+https://cdn6.goprimetime.info/feed/LC58/index.m3u8
+#EXTINF:0,Channel V HD
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
+#EXTINF:0,Astro AEC
+#EXTGRP:Entertainment 
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:0,Astro Ria
+#EXTGRP:Entertainment 
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+#EXTINF:0,Astro Prima
+#EXTGRP:Entertainment 
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+#EXTINF:0,Astro Warna
+#EXTGRP:Entertainment 
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:0,Astro Ceria
+#EXTGRP:Entertainment 
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:0,Jasmin TV
+#EXTGRP:Entertainment 
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
+#EXTINF:0,FASHION TV
+#EXTGRP:Entertainment 
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV Midnight Secert
+#EXTGRP:Entertainment 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion TV International
+#EXTGRP:Entertainment 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:0,Fashion Channel
+#EXTGRP:Entertainment 
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/index.m3u8
+#EXTINF:0,Fashion Channel
+#EXTGRP:Entertainment 
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,Outdoor
+#EXTGRP:Entertainment 
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Miami TV
+#EXTGRP:Entertainment 
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:0,Miami TV Jenny Live
+#EXTGRP:Entertainment 
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:0,Kaloopy 18+
+#EXTGRP:Entertainment 
+https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/126.m3u8
+#EXTINF:0,Voice TV HD
+#EXTGRP:ขาว
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_720p/playlist.m3u8
+#EXTINF:0,CNN
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
+#EXTINF:0,TOPNEWS
+#EXTGRP:ขาว
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:0,Arirang
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:0,FOX News
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:0,BBC 1
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-bbc1hd.stream/playlist.m3u8
+#EXTINF:0,BBC 2
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-bbc2hd.stream/playlist.m3u8
+#EXTINF:0,BBC 3
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-bbc3hd.stream/playlist.m3u8
+#EXTINF:0,BBC 4
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-bbc4hd.stream/playlist.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:ขาว
+http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+#EXTINF:0,CGTN
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-062/playlist.m3u8
+#EXTINF:0,DW
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-053/playlist.m3u8
+#EXTINF:0,France24
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-049/playlist.m3u8
+#EXTINF:0,TV5 MONDE
+#EXTGRP:ขาว
+https://cdn6.goprimetime.info/feed/LC10/index.m3u8
+#EXTINF:0,Al Jazeera
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
+#EXTINF:0,CNA
+#EXTGRP:ขาว
+http://93.190.139.34:8278/streams/d/cna_japan/playlist.m3u8
+#EXTINF:0,Russia Today
+#EXTGRP:ขาว
+http://36.37.252.114:888/Apple/OneTV-057/playlist.m3u8
+#EXTINF:0,CCTV4
+#EXTGRP:ขาว
+https://cdn6.goprimetime.info/feed/LC33/index.m3u8
+#EXTINF:0,NHK World
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/sd-nhkworld.stream/playlist.m3u8
+#EXTINF:0,Phoenix infonews
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/sd-phoenixinfonews.stream/playlist.m3u8
+#EXTINF:0,Alibi channel
+#EXTGRP:ขาว
+http://160.119.77.116:8081/iptv/uk-alibi.stream/playlist.m3u8
+#EXTINF:0,Animax
+#EXTGRP:รายการเดก
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:0,Aniplus
+#EXTGRP:รายการเดก
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:รายการเดก
+https://laos-tech-live.b-cdn.net/sd-boomerang_480/index.m3u8
+#EXTINF:0,Cartoon Club
+#EXTGRP:รายการเดก
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:0,True Spark Play
+#EXTGRP:รายการเดก
+http://160.119.77.116:8081/iptv/sd-sparkplay.stream/playlist.m3u8
+#EXTINF:0,True Spark Jump
+#EXTGRP:รายการเดก
+http://160.119.77.116:8081/iptv/sd-sparkjump.stream/playlist.m3u8
+#EXTINF:0,[เสีย] Cartoon Network
+#EXTGRP:รายการเดก
+https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0,[เสีย] Cartoon Network Ex
+#EXTGRP:รายการเดก
+https://boxmovielive.com/live/cn.m3u8
+#EXTINF:0,nickelodeon
+#EXTGRP:รายการเดก
+https://doofootball.livestream-cdn.com/iptv/sd-nickelodeoneng.stream/playlist.m3u8
+#EXTINF:0,Nick Jr.
+#EXTGRP:รายการเดก
+https://laos-tech-live.b-cdn.net/sd-nickjr_480/index.m3u8
+#EXTINF:0,Toonee
+#EXTGRP:รายการเดก
+https://cdn6.goprimetime.info/feed/LC23/index.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:รายการเดก
+https://doofootball.livestream-cdn.com/iptv/hd-disneyxd.stream/chunks.m3u8
+#EXTINF:0,Cbeebies
+#EXTGRP:รายการเดก
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
+#EXTINF:0,Disney Jr.
+#EXTGRP:รายการเดก
+http://79.137.41.99/DisneyChannel/index.m3u8
+#EXTINF:0,[เสีย] BabyTV Ex
+#EXTGRP:รายการเดก
+https://boxmovielive.com/live/baby.m3u8
+#EXTINF:0,Baby First
+#EXTGRP:รายการเดก
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:รายการเดก
+http://89.105.194.59:25461/live/1toonn!$!4/1toonn!$!4/63.m3u8
+
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 1
+https://tvonlineappitv.shortcm.li//fwmov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 2
+https://tvonlineappitv.shortcm.li/fwsov_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",MOVIE 3
+https://tvonlineappitv.shortcm.li/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",SUN
+https://27.254.130.62/feed/LC1/index.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Samura
+https://27.254.130.62/feed/LC2/index.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Boxfilm
+https://27.254.130.62/feed/LC52/index.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Movie 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Movie 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Series 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:-1 group-title="MOVIE Real Time",Cable Series 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
